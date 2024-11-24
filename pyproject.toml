@@ -1,0 +1,18 @@
+[project]
+name = "example_package_IEURetreatWorkshop"
+version = "0.1"
+authors = [
+  { name="IEU Data Management Team", email="nobody@bristol.ac.uk" },
+]
+description = "A small example package for IEU Retreat Git Workshop"
+readme = "README.md"
+requires-python = ">=3.8"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+]
+
+[project.urls]
+Homepage = "https://github.com/JasonQiu/git-example-package"
+Issues = "https://github.com/JasonQiu/git-example-package/issues"
