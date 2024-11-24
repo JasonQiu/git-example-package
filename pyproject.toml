@@ -1,6 +1,6 @@
 [project]
 name = "example_package_IEURetreatWorkshop"
-version = "0.2"
+version = "0.2.1"
 authors = [
   { name="IEU Data Management Team", email="nobody@bristol.ac.uk" },
 ]
